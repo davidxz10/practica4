@@ -1,6 +1,7 @@
 # Procesamiento e Interpolación de Imágenes Táctiles para un Gripper Robótico utilizando C++ y Python
 ## 1.Descripción
 Este repositorio contiene la cuarta practica de la asignatura de Sistemas Operativos desarollado en C++ y Python que tiene como objetivo trabajar el procesamiento de matrices táctiles, la interpolación bilineal, la comunicación en red mediante una arquitectura cliente-servidor (HTTP) y la visualización de datos científicos.
+
 ---
 
 ## 2. Estructura del repositorio
