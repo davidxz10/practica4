@@ -31,6 +31,11 @@ Este repositorio contiene la cuarta practica de la asignatura de Sistemas Operat
 sudo pacman -Syu base-devel curl nlohmann-json python-flask python-matplotlib python-numpy
 ```
 
+### Compilacion del programa usando g++
+```bash
+g++ main.cpp procesador.cpp -o cliente -lcurl
+```
+
 ---
 
 ## 4. Ejecución
